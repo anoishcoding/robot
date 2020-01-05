@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>robots</title>
+<link rel="icon" href="favicon.png" type="image/gif" sizes="16x16">
+<style>
+body {background-color:green;}
+h1   {color: orange;}
+p    {color: blue  ;}
+</style>
+</head>
+<body>
+<h1>ROBOT</h1>
+<marquee behaviour="alternate" HEIGHT="200PX" >what is a robot?</marquee>
+<p>A robot is a machine—especially one programmable by a computer— capable of carrying out a complex series of actions automatically.<br>
+Robots can be guided by an external control device or the control may be embedded within.<br>
+ Robots may be constructed on the lines of human form, but most robots are machines designed to <br>
+perform a task with no regard to their aesthetics.<br><br><br>
 
-You can use the [editor on GitHub](https://github.com/anoishcoding/robot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Robots can be autonomous or semi-autonomous and range from <br>
+humanoids such as Honda's Advanced Step in Innovative Mobility<br>
+ (ASIMO) and TOSY's TOSY Ping Pong Playing Robot (TOPIO) to industrial<br>
+ robots, medical operating robots, patient assist robots, dog therapy <br>
+robots, collectively programmed swarm robots, UAV drones such as<br>
+ General Atomics MQ-1 Predator, and even microscopic nano robots. <br>
+By mimicking a lifelike appearance or automating movements, a robot <br>
+may convey a sense of intelligence or thought of its own.<br>
+ Autonomous things are expected to proliferate in the coming decade,<br>
+ with home robotics and the autonomous car as some of the main drivers</p>
+<meta name="keywords" content="robots,rbts,rts,roots,botro,robot">
+<meta name="description" content="what is robots?">
+<meta name="author" content="Anish kalyan">
+<meta charset="UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+to know more <a href="https://en.wikipedia.org/wiki/Robot">click here</a><img src="atlas.jfif" alt="atlas" align="right">
+<img src="asimo.jfif" alt="asimo" align="left">
+<table border="100">
+<TR>
+<TH>robot type</th>
+<th>example</th>
+</tr>
+<tr>
+<td>atlas</td>
+<td>humanoid </td>
+</tr>
+<tr>
+<td>asimo</td>
+<td>humaoid</td>
+</tr>
+<ul><h1>types of robot</h1>
+  <li>legged robot </li>
+  <li>industrial robot</li>
+  <li>aerial robot </li>
+<li>survivellance robot</li>
+<li>military robot</li>
+</ul>  
+<comments>User-Agent: *Disallow: /scripts/Disallow: /data/Disallow: /images/</comments>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anoishcoding/robot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
